@@ -9,7 +9,8 @@ This repo currently holds:
 * Created for Workshop at Amrita School of Engineering, Bengaluru
 
 ## Contents
-
+* Intro to Python
+* Intro to Numpy
 * Explicit Methods for ODEs
 * Implicit Methods for ODEs
 * Stationary PDEs
