@@ -1,3 +1,5 @@
+# Written by Abhijeet Parida(abhijeet.parida@tum.de)
+
 from matplotlib.pyplot import figure, subplot, plot, title, xlabel, ylabel,legend
 from numpy import arange,exp
 
